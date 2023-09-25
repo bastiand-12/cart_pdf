@@ -41,9 +41,9 @@
         }
     },
     "require": {
-        "php": ">=7.2.0 <9",
+        "php": "*",
         "typo3/cms-core": "^10.4 || ^11.5",
-        "extcode/cart": "^7.0 || ^8.0",
+        "extcode/cart": "*",
         "extcode/tcpdf": "^3.0"
     },
     "require-dev": {
